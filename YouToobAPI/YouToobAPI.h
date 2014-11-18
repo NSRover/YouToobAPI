@@ -14,6 +14,7 @@ FOUNDATION_EXPORT double YouToobAPIVersionNumber;
 //! Project version string for YouToobAPI.
 FOUNDATION_EXPORT const unsigned char YouToobAPIVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <YouToobAPI/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like
+#import <YouToobAPI/YouTubeHelper.h>
 
 
